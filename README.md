@@ -1,2 +1,2 @@
 # BaseDeDatos_XML_oracle
-Contiene
+Este proyecto consiste en la realización de un esquema XML para la creación de una base de datos relacional-objeto en Oracle.
